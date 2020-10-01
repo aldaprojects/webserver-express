@@ -1,6 +1,6 @@
 ## Web server
 
-Es un ejemplo de webserver usando node
+It´s an example using nodeJs
 ```
 npm install
 ```
